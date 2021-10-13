@@ -1,3 +1,16 @@
+/* font */
+
+@font-face {
+	font-family: 'MPLUS1p-Light';
+	src: url('MPLUS1p-Light.ttf');
+}
+@font-face {
+	font-family: 'MPLUS1p-Thin';
+	src: url('MPLUS1p-Thin.ttf');
+}
+
+/* reset */
+
 * {
 	margin: 0;
 	padding: 0;
